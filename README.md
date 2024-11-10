@@ -63,10 +63,8 @@ The dataset comprises **1338 rows** and **7 columns**:
 The model successfully captures the majority of the variability in medical costs based on predictors in the dataset. However, there are indications of heteroscedasticity and non-normal residuals, suggesting areas for potential model improvement or exploration of non-linear relationships.
 
 ## Acknowledgements
-This analysis was submitted as part of the **SBE2240 Biostatistics course, Spring 2023** under **Professor Ibrahim Youssef**.
+This analysis was submitted as part of the **SBE2240 Biostatistics course, Spring 2023** under the supervison of **[Dr. Ibrahim Youssef](https://scholar.google.com/citations?user=lzanfTsAAAAJ&hl=en)**.
 
-
-## Authors
 ## Contributors
 
 | <a href="https://github.com/JasmineTJ"><img src="https://avatars.githubusercontent.com/u/105980355?v=4" width="100px" alt="JasmineTJ"></a> | <a href="https://github.com/Salma-me"><img src="https://avatars.githubusercontent.com/u/114951438?v=4" width="100px" alt="Salma-me"></a> | <a href="https://github.com/nouran-19"><img src="https://avatars.githubusercontent.com/u/99448829?v=4" width="100px" alt="nouran-19"></a> | <a href="https://github.com/BasT13c"><img src="https://avatars.githubusercontent.com/u/55236680?v=4" width="100px" alt="BasT13c"></a> |
